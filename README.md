@@ -4,7 +4,7 @@ But first we need to install all the things to get started
 
 ## Step One
 Lets install [VSCode](code.visualstudio.com)
-To do this open up the link above and click on the correct download type for your operating system
+To do this open up the [link above](code.visualstudio.com) and click on the correct download type for your operating system
 
 | Operating System | Download File |
 |--|--|
