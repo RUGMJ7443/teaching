@@ -42,13 +42,5 @@ To do this follow the following steps:
 - `esbenp.prettier-vscode`
 - `formulahendry.auto-rename-tag`
 - `formulahendry.auto-close-tag`
----
-Amazing! We now are ready to write some code!
-- Click the top icon on your sidebar this is the **File Manager** 
-- Click the **Open Folder** Button and make a new folder called **Coding** make another folder inside called **HTML** And one more inside the HTML folder **Hello World**
-	 >  So thats Coding > HTML > Hello World
- - Now open the Hello World folder into VSCode
- - hover over the Hello World text on the sidebar you should see some icons hover over each one until you find the `New File` One
- - Click it and type in `index.html`
- - press enter and click on that new file
 # Your ready to go!
+All you need to do is clone this repository to do that scroll to the top of this page press **Code** And then press download zip unzip it open up with VSCode (Right click it and press open in VSCode)
