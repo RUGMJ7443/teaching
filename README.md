@@ -43,4 +43,4 @@ To do this follow the following steps:
 - `formulahendry.auto-rename-tag`
 - `formulahendry.auto-close-tag`
 # Your ready to go!
-All you need to do is clone this repository to do that scroll to the top of this page press **Code** And then press download zip unzip it open up with VSCode (Right click it and press open in VSCode)
+All you need to do is clone this repository to do that scroll to the top of this page press **Code** And then press download zip. unzip it. open it up with VSCode (Right click it and press open in VSCode)
